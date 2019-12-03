@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">萝卜有借</string>
+    <string name="jump_txt">跳过  %ds</string>
+    <string name="tab_loan">借款</string>
+    <string name="tab_repa">还款</string>
+    <string name="tab_my">我的</string>
+</resources>

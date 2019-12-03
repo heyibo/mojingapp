@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mojingapp.iml" filepath="$PROJECT_DIR$/mojingapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archive.iml" filepath="$PROJECT_DIR$/archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh/refresh.iml" filepath="$PROJECT_DIR$/refresh/refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh/refresh-header/refresh-header.iml" filepath="$PROJECT_DIR$/refresh/refresh-header/refresh-header.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh/refresh-layout/refresh-layout.iml" filepath="$PROJECT_DIR$/refresh/refresh-layout/refresh-layout.iml" />
     </modules>
   </component>
 </project>

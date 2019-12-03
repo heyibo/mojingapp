@@ -7,3 +7,17 @@
 /build
 /captures
 .externalNativeBuild
+.idea/caches/build_file_checksums.ser
+.idea/caches/gradle_models.ser
+.idea/codeStyles/Project.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+app/.gitignore
+gradlew.bat
+gradlew
+statusbar/.gitignore
+refresh/refresh-layout/.gitignore
+refresh/refresh-header/.gitignore

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\refresh\\refresh-header\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "D:\\android\\workspase\\xiangmumuvban\\archive\\refresh\\refresh-header\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,162,219,271,324,381",
+                        "endColumns": "52,53,56,51,52,56,56",
+                        "endOffsets": "103,157,214,266,319,376,433"
+                    }
+                }
+            ]
+        }
+    ]
+}

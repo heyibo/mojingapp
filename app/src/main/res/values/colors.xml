@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <!--app通用颜色-->
+    <color name="app_color">#3F51B5</color>
+    <color name="black">#000000</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_white">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="title_line">#E6E6E6</color>
+    <color name="f7f7f7_color">#f7f7f7</color>
+    <color name="title_textcolor">#333333</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="ffffba02_color">#FFBA02</color>
 </resources>

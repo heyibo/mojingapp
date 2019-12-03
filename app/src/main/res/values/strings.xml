@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">LBYJ</string>
+    <string name="jump_txt">Jump  %ds</string>
+    <string name="tab_loan">Loan</string>
+    <string name="tab_repay">Repay</string>
+    <string name="tab_my">My</string>
 </resources>

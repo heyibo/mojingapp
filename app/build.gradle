@@ -1,28 +1,291 @@
 apply plugin: 'com.android.application'
+apply plugin: 'android-aspectjx'
+
+def releaseTime() {
+    return new Date().format("yyyy-MM-dd HH-mm-ss", TimeZone.getTimeZone("GMT+08"))
+}
 
 android {
-    compileSdkVersion 26
+    signingConfigs {
+        release {
+            storeFile file('keystore/hyb_keystore.jks')
+            keyAlias 'key0'
+            keyPassword '123456'
+            storePassword '123456'
+            //v1和v2的签名使用
+//            只勾选v1签名并不会影响什么，但是在7.0上不会使用更安全的验证方式
+//            只勾选V2签名7.0以下会直接安装完显示未安装，7.0以上则使用了V2的方式验证
+            v1SigningEnabled true
+            v2SigningEnabled true
+        }
+    }
+
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
     defaultConfig {
-        applicationId "mojing.znwhkj.com.myapplication"
-        minSdkVersion 15
-        targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
+        applicationId rootProject.ext.android.applicationId
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode rootProject.ext.android.versionCode
+        versionName rootProject.ext.android.versionName
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        flavorDimensions "default"
+        multiDexEnabled true
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'armeabi', 'x86_64'//, 'x86 ','armeabi-v7a', 'arm64-v8a'
+        }
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: "com.zry.ad",
+                JPUSH_APPKEY : "63694021559208947489b85c", //JPush 上注册的包名对应的 Appkey.
+                JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+
+                //AY3Z1WPG1V2W 属于应用"亿盈"独有的 Android AppKey, 用于配置SDK
+                MTA_APPKEY   : "AY3Z1WPG1V2W",
+                //标注应用推广渠道用以区分新用户来源，可填写如应用宝，豌豆荚等
+                MTA_CHANNEL  : "yingyongbao"
+        ]
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
+        debug {
+            signingConfig signingConfigs.release
+            debuggable true
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    productFlavors {
+        "360" {
+            manifestPlaceholders = [C_CHANNEL: "360", G_CHANNEL: "360应用市场"]
+        }
+        yingyongbao {
+            manifestPlaceholders = [C_CHANNEL: "yingyonbao", G_CHANNEL: "腾讯应用宝"]
+        }
+        ali {
+            manifestPlaceholders = [C_CHANNEL: "ali", G_CHANNEL: "阿里应用市场"]
+        }
+        vivo {
+            manifestPlaceholders = [C_CHANNEL: "vivo", G_CHANNEL: "vivo应用市场"]
+        }
+        oppo {
+            manifestPlaceholders = [C_CHANNEL: "oppo", G_CHANNEL: "OPPO应用市场"]
+        }
+        huawei {
+            manifestPlaceholders = [C_CHANNEL: "huawei", G_CHANNEL: "华为应用市场"]
+        }
+        offical17 {
+            manifestPlaceholders = [C_CHANNEL: "17", G_CHANNEL: "陌陌推广5-王总"]
+        }
+        offical16 {
+            manifestPlaceholders = [C_CHANNEL: "16", G_CHANNEL: "陌陌推广4-王总"]
+        }
+        offical15 {
+            manifestPlaceholders = [C_CHANNEL: "15", G_CHANNEL: "陌陌推广3-王总"]
+        }
+        offical14 {
+            manifestPlaceholders = [C_CHANNEL: "14", G_CHANNEL: "陌陌推广2-王总"]
+        }
+    }
+
+    android {
+        applicationVariants.all { variant ->
+            //luoboyoujie_360_v1.1.0 正式包需要打包名字的格式
+            if (variant.buildType.name == 'release') {
+                variant.getPackageApplication().outputDirectory = new File(project.rootDir.absolutePath + "/app/build/outputs/release")
+                variant.getPackageApplication().outputScope.apkDatas.forEach { apkData ->
+                    //apkData.outputFileName = '萝卜有借_' + variant.buildType.name + "_" + variant.versionName + '_' + releaseTime() + '_' + variant.flavorName + '.apk'
+                    //这个修改输出APK的文件名
+                    apkData.outputFileName = "pdl_" +
+                            variant.flavorName + '_' +
+                            variant.versionName + '_' +
+                            '.apk'
+                }
+            } else {
+                variant.outputs.all { output ->
+                    def buildName = "pdl"
+                    def type = variant.buildType.name
+//                    def releaseApkName = buildName + '_' + type + "_" + variant.versionName + '_' + releaseTime() + '_' + variant.flavorName + '.apk'
+                    def releaseApkName = buildName + '_' + type + "_" + variant.versionName + '_' + variant.flavorName + '.apk'
+                    outputFileName = releaseApkName
+                }
+            }
+        }
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
 }
 
+aspectjx {
+//    include 'butterknife'//织入遍历butterknife
+//    exclude '.jar'//忽略所有依赖的库
+}
+
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation rootProject.ext.dependencies["recyclerview-v7"]
+    implementation rootProject.ext.dependencies["support-appcompat-v7"]
+    implementation rootProject.ext.dependencies["support-design"]
+
+    //美化代码
+    implementation rootProject.ext.dependencies["rxjava"]
+    implementation rootProject.ext.dependencies["rxandroid"]
+
+    // rxlifecycle2
+    compile rootProject.ext.dependencies["rxlifecycle"]
+    compile rootProject.ext.dependencies["rxlifecycle-android"]
+    compile(rootProject.ext.dependencies["rxlifecycle-components"]) {
+        exclude group: 'android.support'
+    }
+
+    //网络请求
+    implementation rootProject.ext.dependencies["okhttp"]
+    implementation rootProject.ext.dependencies["logging-interceptor"]
+
+    //网络层提取封装
+    implementation rootProject.ext.dependencies["retrofit"]
+    implementation rootProject.ext.dependencies["converter-gson"]
+    implementation rootProject.ext.dependencies["adapter-rxjava2"]
+    implementation rootProject.ext.dependencies["converter-scalars"]
+    implementation rootProject.ext.dependencies["gson"]
+
+    //图片加载
+    implementation rootProject.ext.dependencies["glide"]
+    implementation rootProject.ext.dependencies["okhttp3-integration"]
+    implementation 'com.android.support:support-v4:27.1.1'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'com.android.support.test:runner:1.0.2'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    annotationProcessor rootProject.ext.dependencies["glide-compiler"]
+
+    //申请权限
+    implementation rootProject.ext.dependencies["rxpermissions"]
+
+    //adapter适配器
+    implementation rootProject.ext.dependencies["BaseRecyclerViewAdapterHelper"]
+
+    //布局绑定
+    implementation rootProject.ext.dependencies["butterknife"]
+    annotationProcessor rootProject.ext.dependencies["butterknife-compiler"]
+    implementation rootProject.ext.dependencies["Android-SpinKit"]
+
+    //切面条
+    implementation rootProject.ext.dependencies["aspectj"]
+
+    //崩溃日志记录
+    implementation rootProject.ext.dependencies["crashreport"]
+    implementation rootProject.ext.dependencies["nativecrashreport"]
+
+    //屏幕适配
+    implementation rootProject.ext.dependencies["autosize"]
+
+    //切换不同的数据状态布局
+    implementation rootProject.ext.dependencies["StatusLayoutManager"]
+
+    //上下拉刷新组件
+
+    //SmartRefreshLayout
+
+    //不需要自定义动画就用这个
+
+    //    implementation rootProject.ext.dependencies["SmartRefreshLayout"]
+
+    //    implementation rootProject.ext.dependencies["SmartRefreshHeader"]
+
+    //需要自定义动画，就用这个
+    implementation project(':refresh:refresh-header')
+    implementation project(':refresh:refresh-layout')
+
+    //圆角图片
+    implementation rootProject.ext.dependencies["Circleimageview"]
+
+    //图片选择器
+    implementation rootProject.ext.dependencies["PictureSelector"]
+
+    //工具类
+    implementation rootProject.ext.dependencies["sutils"]
+
+    //选项卡
+    implementation rootProject.ext.dependencies["FlycoTabLayout_Lib"]
+
+    //带气泡的seekbar
+    implementation rootProject.ext.dependencies["indicatorseekbar"]
+    implementation files('libs/jcore-android-2.1.0.jar')
+    implementation 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
+    implementation 'com.alibaba:fastjson:1.1.56.android'
+    implementation 'com.zhy:okhttputils:2.6.2'
+    implementation 'com.github.dzs-yaodi:Banner:1.2'
+
+    //全局设置字体
+    implementation rootProject.ext.dependencies["calligraphy"]
+
+    //腾讯移动分析平台
+
+    //MTA主包
+    implementation 'com.qq.mta:mta:3.4.2'
+
+    //MID基础包
+    implementation 'com.tencent.mid:mid:3.73-release'
+
+    //PickerView
+    implementation rootProject.ext.dependencies["PickerView"]
+
+    //自定义Ratingbar
+    implementation rootProject.ext.dependencies["xlhratingbar"]
+
+    //视频播放器
+    implementation rootProject.ext.dependencies["jiaozivideoplayer"]
+
+    //    //高德地图
+
+    //    //3D地图so及jar
+
+    //    implementation 'com.amap.api:3dmap:latest.integration'
+
+    //    //搜索功能
+
+    //    implementation 'com.amap.api:search:latest.integration'
+
+    //    //定位功能
+
+    //    implementation 'com.amap.api:location:latest.integration'
+
+    //    //2D地图
+
+    //    implementation 'com.amap.api:map2d:latest.integration'
+
+    //用jsoup解析html
+    implementation 'org.jsoup:jsoup:1.11.3'
+
+    //支付宝支付
+    implementation(name: 'alipaySdk-15.6.5-20190718211148', ext: 'aar')
+    //极光推送
+    implementation files('libs/jpush-android-3.3.2.jar')
+
+    //引导页
+    implementation rootProject.ext.dependencies["GuidePage"]
 }

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyRadioButton">
+        <attr name="rbDrawableSize" format="dimension" />
+        <attr name="rbDrawableTop" format="reference" />
+        <attr name="rbDrawableLeft" format="reference" />
+        <attr name="rbDrawableRight" format="reference" />
+        <attr name="rbDrawableBottom" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension"/>
+        <attr name="border_color" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="BezierBannerDot">
+        <attr name="selectedColor" format="color"/>
+        <attr name="unSelectedColor" format="color"/>
+        <attr name="selectedRaduis" format="dimension"/>
+        <attr name="unSelectedRaduis" format="dimension"/>
+        <attr name="spacing" format="dimension"/>
+    </declare-styleable>
+</resources>
