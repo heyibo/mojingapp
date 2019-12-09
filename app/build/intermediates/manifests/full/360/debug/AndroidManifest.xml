@@ -61,13 +61,14 @@
         android:smallScreens="true" />
 
     <application
-        android:name="com.hlbkj.pdl.MyApplication"
+        android:name="com.hlbkj.mj.MyApplication"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <provider
             android:name="android.support.v4.content.FileProvider"
@@ -96,18 +97,17 @@
             android:value="360应用市场" />
 
         <activity
-            android:name="com.hlbkj.pdl.ui.activity.SplashActivity"
-            android:theme="@style/SplashTheme" >
-        </activity>
+            android:name="com.hlbkj.mj.ui.activity.SplashActivity"
+            android:theme="@style/SplashTheme" />
         <activity
-            android:name="com.hlbkj.pdl.ui.activity.MainActivity"
+            android:name="com.hlbkj.mj.ui.activity.MainActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.hlbkj.pdl.ui.activity.LoginActivity"
+            android:name="com.hlbkj.mj.ui.activity.LoginActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.hlbkj.pdl.ui.activity.GuideActivity"
+            android:name="com.hlbkj.mj.ui.activity.GuideActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -116,6 +116,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.hlbkj.mj.ui.activity.NieLianActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.hlbkj.mj.ui.activity.JuBaoActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.hlbkj.mj.ui.activity.ShopActivity" />
 
         <provider
             android:name="com.luck.picture.lib.PictureFileProvider"

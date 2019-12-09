@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hlbkj.pdl">
+    package="com.hlbkj.mj">
 
     <permission
         android:name="${applicationId}.permission.JPUSH_MESSAGE"
@@ -76,9 +76,7 @@
 
         <activity
             android:name=".ui.activity.SplashActivity"
-            android:theme="@style/SplashTheme">
-
-        </activity>
+            android:theme="@style/SplashTheme" />
         <activity
             android:name=".ui.activity.MainActivity"
             android:launchMode="singleTask"
@@ -86,14 +84,23 @@
         <activity
             android:name=".ui.activity.LoginActivity"
             android:screenOrientation="portrait" />
-        <activity android:name=".ui.activity.GuideActivity"
+        <activity
+            android:name=".ui.activity.GuideActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ui.activity.NieLianActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.activity.JuBaoActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.activity.ShopActivity"></activity>
     </application>
 
 </manifest>

@@ -8,34 +8,34 @@ package me.bakumon.statuslayoutmanager.library;
 
 public final class R {
     public static final class color {
-        public static final int status_layout_background_color = 0x7f050078;
-        public static final int status_layout_click_view_text_color = 0x7f050079;
-        public static final int status_layout_tip_text_color = 0x7f05007a;
+        public static final int status_layout_background_color = 0x7f05008a;
+        public static final int status_layout_click_view_text_color = 0x7f05008b;
+        public static final int status_layout_tip_text_color = 0x7f05008c;
     }
     public static final class drawable {
-        public static final int ic_empty = 0x7f07007e;
-        public static final int ic_error = 0x7f07007f;
+        public static final int ic_empty = 0x7f070089;
+        public static final int ic_error = 0x7f07008a;
     }
     public static final class id {
         public static final int bt_status_empty_click = 0x7f080055;
         public static final int bt_status_error_click = 0x7f080056;
-        public static final int iv_status_empty_img = 0x7f0800c2;
-        public static final int iv_status_error_image = 0x7f0800c3;
-        public static final int pb_status_loading = 0x7f080102;
-        public static final int tv_status_empty_content = 0x7f080198;
-        public static final int tv_status_error_content = 0x7f080199;
-        public static final int tv_status_loading_content = 0x7f08019a;
+        public static final int iv_status_empty_img = 0x7f0800d6;
+        public static final int iv_status_error_image = 0x7f0800d7;
+        public static final int pb_status_loading = 0x7f08012e;
+        public static final int tv_status_empty_content = 0x7f0801ea;
+        public static final int tv_status_error_content = 0x7f0801eb;
+        public static final int tv_status_loading_content = 0x7f0801ec;
     }
     public static final class layout {
-        public static final int layout_status_layout_manager_empty = 0x7f0a0041;
-        public static final int layout_status_layout_manager_error = 0x7f0a0042;
-        public static final int layout_status_layout_manager_loading = 0x7f0a0043;
+        public static final int layout_status_layout_manager_empty = 0x7f0a004b;
+        public static final int layout_status_layout_manager_error = 0x7f0a004c;
+        public static final int layout_status_layout_manager_loading = 0x7f0a004d;
     }
     public static final class string {
         public static final int app_name = 0x7f0e001d;
-        public static final int status_layout_manager_empty = 0x7f0e0087;
-        public static final int status_layout_manager_error = 0x7f0e0088;
-        public static final int status_layout_manager_loading = 0x7f0e0089;
-        public static final int status_layout_manager_retry = 0x7f0e008a;
+        public static final int status_layout_manager_empty = 0x7f0e0070;
+        public static final int status_layout_manager_error = 0x7f0e0071;
+        public static final int status_layout_manager_loading = 0x7f0e0072;
+        public static final int status_layout_manager_retry = 0x7f0e0073;
     }
 }

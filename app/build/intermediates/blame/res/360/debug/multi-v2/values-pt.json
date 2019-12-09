@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "outputFile": "E:\\workspase\\mojingapp\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-pt\\values-pt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\284d7f0d6e7dc90160d55d6e7aa892b9\\res\\values-pt\\values-pt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
-                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
-                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,2065",
-                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
-                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2145"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-6.2.12.aar\\b40d8c955b3cd8b03922dcbe208bd2f9\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-6.2.12.aar\\15b9041fdb95cb2e2e1eb7a9419ed19b\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1c1eaf4d4756f65391a6bf00a2ecf446\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4bcdf0cdfaabfbfd7e5e82aad6b3302b\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,2065",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2145"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0aff3a9ef12643746377e04e9dfe1e7b\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

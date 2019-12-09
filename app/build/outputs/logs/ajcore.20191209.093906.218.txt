@@ -1,0 +1,221 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.8.9 built on Monday Mar 14, 2016 at 21:18:16 GMT
+---- Dump Properties ---
+Dump file: ajcore.20191209.093906.218.txt
+Dump reason: org.aspectj.weaver.BCException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+---- System Properties ---
+java.vendor=JetBrains s.r.o
+sun.java.launcher=SUN_STANDARD
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+idea.paths.selector=AndroidStudio3.0
+jnidispatch.path=C:\Users\EDZ\.AndroidStudio3.0\system\tmp\jna2817615072366780779.dll
+winp.unpack.dll.to.parent.dir=false
+os.name=Windows 10
+sun.boot.class.path=D:\softinstall\androidstudio\jre\jre\lib\resources.jar;D:\softinstall\androidstudio\jre\jre\lib\rt.jar;D:\softinstall\androidstudio\jre\jre\lib\sunrsasign.jar;D:\softinstall\androidstudio\jre\jre\lib\jsse.jar;D:\softinstall\androidstudio\jre\jre\lib\jce.jar;D:\softinstall\androidstudio\jre\jre\lib\charsets.jar;D:\softinstall\androidstudio\jre\jre\lib\jfr.jar;D:\softinstall\androidstudio\jre\jre\classes
+sun.desktop=windows
+java.vm.specification.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-release-915-b01
+jb.vmOptionsFile=D:\softinstall\androidstudio\bin\studio64.exe.vmoptions
+jna.loaded=true
+io.netty.serviceThreadPrefix=Netty 
+user.name=EDZ
+aspectj.multithreaded=true
+java.rmi.server.disableHttp=true
+user.language=zh
+sun.boot.library.path=D:\softinstall\androidstudio\jre\jre\bin
+jna.nosys=true
+idea.fatal.error.notification=disabled
+swing.bufferPerWindow=true
+java.version=1.8.0_152-release
+java.net.preferIPv4Stack=true
+user.timezone=Asia/Shanghai
+sun.arch.data.model=64
+java.util.concurrent.ForkJoinPool.common.threadFactory=com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory
+jna.tmpdir=C:\Users\EDZ\.AndroidStudio3.0\system\tmp
+java.endorsed.dirs=D:\softinstall\androidstudio\jre\jre\lib\endorsed
+sun.cpu.isalist=amd64
+sun.jnu.encoding=GBK
+file.encoding.pkg=sun.io
+file.separator=\
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+user.country=CN
+jna.boot.library.path=
+java.home=D:\softinstall\androidstudio\jre\jre
+java.util.concurrent.ForkJoinPool.common.parallelism=12
+java.vm.info=mixed mode
+os.version=10.0
+path.separator=;
+java.vm.version=25.152-b01
+idea.no.launcher=false
+user.variant=
+idea.max.content.load.filesize=20000
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+sun.io.unicode.encoding=UnicodeLittle
+idea.cycle.buffer.size=1024
+awt.toolkit=sun.awt.windows.WToolkit
+ide.new.welcome.screen.force=true
+log4j.defaultInitOverride=true
+io.netty.processId=6780
+user.script=
+idea.platform.prefix=AndroidStudio
+idea.dynamic.classpath=false
+user.home=C:\Users\EDZ
+__idea.mac.env.lock=unlocked
+java.specification.vendor=Oracle Corporation
+library.jansi.path=C:\Users\EDZ\.gradle\native\jansi\1.14\windows64
+java.library.path=D:\softinstall\androidstudio\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\.;D:\softinstall\jdk\bin;D:\softinstall\jdk\jre\bin;D:\softinstall\git\Git\cmd;C:\Users\EDZ\AppData\Local\Microsoft\WindowsApps;;.
+java.vendor.url=https://www.jetbrains.com/
+java.vm.vendor=JetBrains s.r.o
+external.system.remote.process.idle.ttl.ms=-1
+java.runtime.name=OpenJDK Runtime Environment
+sun.java.command=org.gradle.launcher.daemon.bootstrap.GradleDaemon 4.4
+java.class.path=C:\Users\EDZ\.gradle\wrapper\dists\gradle-4.4-all\9br9xq1tocpiv8o6njlyu5op1\gradle-4.4\lib\gradle-launcher-4.4.jar
+io.netty.machineId=28:f0:76:ff:fe:16:65:0e
+java.vm.specification.name=Java Virtual Machine Specification
+idea.xdebug.key=-Xdebug
+java.vm.specification.version=1.8
+idea.popup.weight=heavy
+sun.cpu.endian=little
+sun.os.patch.level=
+java.awt.headless=true
+java.io.tmpdir=C:\Users\EDZ\AppData\Local\Temp\
+java.vendor.url.bug=https://youtrack.jetbrains.com
+java.rmi.server.hostname=localhost
+os.arch=amd64
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+idea.max.intellisense.filesize=2500
+java.ext.dirs=D:\softinstall\androidstudio\jre\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+idea.jre.check=true
+user.dir=E:\workspase\mojingapp
+line.separator=
+
+java.vm.name=OpenJDK 64-Bit Server VM
+java.util.Arrays.useLegacyMergeSort=true
+file.encoding=GBK
+studio.record.file=C:\Users\EDZ\.AndroidStudio3.0\system\tmp\AndroidStudio.703964e2-3993-4458-b081-746c58e4d393
+java.specification.version=1.8
+---- Command Line ---
+-showWeaveInfo
+-encoding
+UTF-8
+-source
+1.8
+-target
+1.8
+-classpath
+E:\workspase\mojingapp\app\build\intermediates\ajx\360Debug\includefiles;E:\workspase\mojingapp\app\build\intermediates\ajx\360Debug\excludefiles;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\1.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\2.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\3.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\4.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\5.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\6.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\7.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\8.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\9.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\10.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\11.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\12.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\13.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\14.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\15.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\16.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\17.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\18.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\19.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\20.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\21.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\22.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\23.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\24.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\25.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\26.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\27.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\28.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\29.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\30.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\31.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\32.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\33.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\34.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\35.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\36.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\37.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\38.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\39.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\40.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\41.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\42.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\43.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\44.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\45.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\46.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\47.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\48.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\49.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\50.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\51.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\52.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\53.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\54.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\55.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\56.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\57.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\58.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\59.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\60.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\61.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\62.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\63.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\64.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\65.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\66.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\67.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\68.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\69.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\70.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\71.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\72.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\73.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\74.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\75.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\76.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\77.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\78.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\79.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\80.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\81.jar;E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\82.jar;E:\workspase\mojingapp\app\build\intermediates\processing-tools\runtime-deps\360\debug\desugar_try_with_resources.jar
+-bootclasspath
+C:\Users\EDZ\AppData\Local\Android\Sdk\platforms\android-27\android.jar
+-inpath
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\69.jar
+-aspectpath
+E:\workspase\mojingapp\app\build\intermediates\ajx\360Debug\aspecs
+-outjar
+E:\workspase\mojingapp\app\build\intermediates\transforms\ajx\360\debug\69.jar
+-Xlint:ignore
+-warn:none
+---- Full Classpath ---
+C:\Users\EDZ\AppData\Local\Android\Sdk\platforms\android-27\android.jar(29515251 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\61.jar(28786 bytes)
+E:\workspase\mojingapp\app\build\intermediates\ajx\360Debug\aspecs(1 entries)
+D:\softinstall\androidstudio\jre\jre\lib\ext\access-bridge-64.jar(196869 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\cldrdata.jar(3860502 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\dnsns.jar(8286 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\jaccess.jar(44516 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\localedata.jar(1179101 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\nashorn.jar(2033194 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\sunec.jar(38260 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\sunjce_provider.jar(261554 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\sunmscapi.jar(29490 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\sunpkcs11.jar(239017 bytes)
+D:\softinstall\androidstudio\jre\jre\lib\ext\zipfs.jar(68932 bytes)
+E:\workspase\mojingapp\app\build\intermediates\ajx\360Debug\includefiles(8 entries)
+E:\workspase\mojingapp\app\build\intermediates\ajx\360Debug\excludefiles(0 entries)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\1.jar(824511 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\2.jar(393089 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\3.jar(43808 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\4.jar(148776 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\5.jar(121381 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\6.jar(19997 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\7.jar(37653 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\8.jar(17578 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\9.jar(19107 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\10.jar(249938 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\11.jar(615534 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\12.jar(651382 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\13.jar(268114 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\14.jar(811236 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\15.jar(565868 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\16.jar(1021343 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\17.jar(53756 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\18.jar(10389 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\19.jar(15495 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\20.jar(1480970 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\21.jar(27374 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\22.jar(40307 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\23.jar(18504 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\24.jar(5480646 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\25.jar(20613 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\26.jar(8317 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\27.jar(22793 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\28.jar(215598 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\29.jar(113655 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\30.jar(762268 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\31.jar(501028 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\32.jar(1440845 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\33.jar(15382 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\34.jar(22 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\35.jar(134872 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\36.jar(165155 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\37.jar(26125 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\38.jar(120859 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\39.jar(529648 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\40.jar(22 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\41.jar(72804 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\42.jar(27411 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\43.jar(310650 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\44.jar(407396 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\45.jar(12860 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\46.jar(102337 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\47.jar(83540 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\48.jar(464623 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\49.jar(526502 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\50.jar(71443 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\51.jar(724 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\52.jar(484392 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\53.jar(724 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\54.jar(130548 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\55.jar(135580 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\56.jar(102062 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\57.jar(750437 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\58.jar(630528 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\59.jar(399209 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\60.jar(401006 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\61.jar(28786 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\62.jar(30950 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\63.jar(76663 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\64.jar(574901 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\65.jar(215269 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\66.jar(773811 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\67.jar(70136 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\68.jar(1245502 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\69.jar(32893 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\70.jar(38286 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\71.jar(167325 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\72.jar(39452 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\73.jar(4228 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\74.jar(268364 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\75.jar(108301 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\76.jar(19495 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\77.jar(13644 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\78.jar(19285 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\79.jar(39459 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\80.jar(8988 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\81.jar(24503 bytes)
+E:\workspase\mojingapp\app\build\intermediates\transforms\desugar\360\debug\82.jar(1877 bytes)
+E:\workspase\mojingapp\app\build\intermediates\processing-tools\runtime-deps\360\debug\desugar_try_with_resources.jar(10208 bytes)
+---- Compiler Messages ---

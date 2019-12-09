@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "E:\\workspase\\mojingapp\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\284d7f0d6e7dc90160d55d6e7aa892b9\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4bcdf0cdfaabfbfd7e5e82aad6b3302b\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\d89edb6bda6802b4eb6e6dc54f60f12f\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\be4298def974a2f21e9643b86ee185d4\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

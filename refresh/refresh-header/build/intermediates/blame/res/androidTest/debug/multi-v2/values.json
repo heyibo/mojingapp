@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\refresh\\refresh-header\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\workspase\\mojingapp\\refresh\\refresh-header\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\android\\workspase\\xiangmumuvban\\archive\\refresh\\refresh-header\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "source": "E:\\workspase\\mojingapp\\refresh\\refresh-header\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "from": {
                         "startLines": "15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4",

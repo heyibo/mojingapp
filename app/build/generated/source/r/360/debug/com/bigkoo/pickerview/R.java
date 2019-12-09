@@ -14,23 +14,23 @@ public final class R {
         public static final int pickerview_slide_out_bottom = 0x7f010027;
     }
     public static final class attr {
-        public static final int wheelview_dividerColor = 0x7f0302a2;
-        public static final int wheelview_gravity = 0x7f0302a3;
-        public static final int wheelview_lineSpacingMultiplier = 0x7f0302a4;
-        public static final int wheelview_textColorCenter = 0x7f0302a5;
-        public static final int wheelview_textColorOut = 0x7f0302a6;
-        public static final int wheelview_textSize = 0x7f0302a7;
+        public static final int wheelview_dividerColor = 0x7f030286;
+        public static final int wheelview_gravity = 0x7f030287;
+        public static final int wheelview_lineSpacingMultiplier = 0x7f030288;
+        public static final int wheelview_textColorCenter = 0x7f030289;
+        public static final int wheelview_textColorOut = 0x7f03028a;
+        public static final int wheelview_textSize = 0x7f03028b;
     }
     public static final class color {
-        public static final int pickerview_bgColor_default = 0x7f05005f;
-        public static final int pickerview_bgColor_overlay = 0x7f050060;
-        public static final int pickerview_bg_topbar = 0x7f050061;
-        public static final int pickerview_timebtn_nor = 0x7f050062;
-        public static final int pickerview_timebtn_pre = 0x7f050063;
-        public static final int pickerview_topbar_title = 0x7f050064;
-        public static final int pickerview_wheelview_textcolor_center = 0x7f050065;
-        public static final int pickerview_wheelview_textcolor_divider = 0x7f050066;
-        public static final int pickerview_wheelview_textcolor_out = 0x7f050067;
+        public static final int pickerview_bgColor_default = 0x7f050071;
+        public static final int pickerview_bgColor_overlay = 0x7f050072;
+        public static final int pickerview_bg_topbar = 0x7f050073;
+        public static final int pickerview_timebtn_nor = 0x7f050074;
+        public static final int pickerview_timebtn_pre = 0x7f050075;
+        public static final int pickerview_topbar_title = 0x7f050076;
+        public static final int pickerview_wheelview_textcolor_center = 0x7f050077;
+        public static final int pickerview_wheelview_textcolor_divider = 0x7f050078;
+        public static final int pickerview_wheelview_textcolor_out = 0x7f050079;
     }
     public static final class dimen {
         public static final int pickerview_textsize = 0x7f06009b;
@@ -40,49 +40,49 @@ public final class R {
         public static final int pickerview_topbar_title_textsize = 0x7f06009f;
     }
     public static final class drawable {
-        public static final int selector_pickerview_btn = 0x7f0700d5;
+        public static final int selector_pickerview_btn = 0x7f0700e5;
     }
     public static final class id {
         public static final int btnCancel = 0x7f080057;
         public static final int btnSubmit = 0x7f080059;
         public static final int center = 0x7f080060;
         public static final int content_container = 0x7f080071;
-        public static final int day = 0x7f080077;
-        public static final int hour = 0x7f0800a4;
-        public static final int left = 0x7f0800cd;
-        public static final int min = 0x7f0800e5;
-        public static final int month = 0x7f0800e8;
-        public static final int options1 = 0x7f0800f6;
-        public static final int options2 = 0x7f0800f7;
-        public static final int options3 = 0x7f0800f8;
-        public static final int optionspicker = 0x7f0800f9;
-        public static final int outmost_container = 0x7f0800fa;
-        public static final int right = 0x7f08011f;
-        public static final int rv_topbar = 0x7f08012b;
-        public static final int second = 0x7f080141;
-        public static final int timepicker = 0x7f080170;
-        public static final int tvTitle = 0x7f080183;
-        public static final int year = 0x7f0801b9;
+        public static final int day = 0x7f08007b;
+        public static final int hour = 0x7f0800a8;
+        public static final int left = 0x7f0800e3;
+        public static final int min = 0x7f080110;
+        public static final int month = 0x7f080113;
+        public static final int options1 = 0x7f080121;
+        public static final int options2 = 0x7f080122;
+        public static final int options3 = 0x7f080123;
+        public static final int optionspicker = 0x7f080124;
+        public static final int outmost_container = 0x7f080125;
+        public static final int right = 0x7f080152;
+        public static final int rv_topbar = 0x7f08016a;
+        public static final int second = 0x7f080183;
+        public static final int timepicker = 0x7f0801b2;
+        public static final int tvTitle = 0x7f0801c4;
+        public static final int year = 0x7f080210;
     }
     public static final class integer {
         public static final int animation_default_duration = 0x7f090002;
     }
     public static final class layout {
-        public static final int include_pickerview_topbar = 0x7f0a0036;
-        public static final int layout_basepickerview = 0x7f0a0040;
-        public static final int pickerview_options = 0x7f0a005a;
-        public static final int pickerview_time = 0x7f0a005b;
+        public static final int include_pickerview_topbar = 0x7f0a003e;
+        public static final int layout_basepickerview = 0x7f0a004a;
+        public static final int pickerview_options = 0x7f0a0065;
+        public static final int pickerview_time = 0x7f0a0066;
     }
     public static final class string {
         public static final int app_name = 0x7f0e001d;
-        public static final int pickerview_cancel = 0x7f0e0043;
-        public static final int pickerview_day = 0x7f0e0044;
-        public static final int pickerview_hours = 0x7f0e0045;
-        public static final int pickerview_minutes = 0x7f0e0046;
-        public static final int pickerview_month = 0x7f0e0047;
-        public static final int pickerview_seconds = 0x7f0e0048;
-        public static final int pickerview_submit = 0x7f0e0049;
-        public static final int pickerview_year = 0x7f0e004a;
+        public static final int pickerview_cancel = 0x7f0e003d;
+        public static final int pickerview_day = 0x7f0e003e;
+        public static final int pickerview_hours = 0x7f0e003f;
+        public static final int pickerview_minutes = 0x7f0e0040;
+        public static final int pickerview_month = 0x7f0e0041;
+        public static final int pickerview_seconds = 0x7f0e0042;
+        public static final int pickerview_submit = 0x7f0e0043;
+        public static final int pickerview_year = 0x7f0e0044;
     }
     public static final class style {
         public static final int custom_dialog2 = 0x7f0f01b0;
@@ -90,7 +90,7 @@ public final class R {
         public static final int picker_view_slide_anim = 0x7f0f01b6;
     }
     public static final class styleable {
-        public static final int[] pickerview = { 0x7f0302a2, 0x7f0302a3, 0x7f0302a4, 0x7f0302a5, 0x7f0302a6, 0x7f0302a7 };
+        public static final int[] pickerview = { 0x7f030286, 0x7f030287, 0x7f030288, 0x7f030289, 0x7f03028a, 0x7f03028b };
         public static final int pickerview_wheelview_dividerColor = 0;
         public static final int pickerview_wheelview_gravity = 1;
         public static final int pickerview_wheelview_lineSpacingMultiplier = 2;

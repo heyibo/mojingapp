@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\incremental\\merge360DebugAndroidTestResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "E:\\workspase\\mojingapp\\app\\build\\intermediates\\incremental\\merge360DebugAndroidTestResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\284d7f0d6e7dc90160d55d6e7aa892b9\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4bcdf0cdfaabfbfd7e5e82aad6b3302b\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

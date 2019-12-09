@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\workspase\mojingapp\refresh\refresh-header\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\workspase\mojingapp\refresh\refresh-header\src\debug\shaders"/></dataSet></merger>

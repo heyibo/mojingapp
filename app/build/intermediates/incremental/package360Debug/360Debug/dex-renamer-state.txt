@@ -1,7 +1,7 @@
-#Wed Oct 23 17:20:47 CST 2019
-base.0=D\:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\transforms\\dexMerger\\360\\debug\\12
+#Mon Dec 09 16:37:50 CST 2019
+base.0=E\:\\workspase\\mojingapp\\app\\build\\intermediates\\transforms\\dexMerger\\360\\debug\\2
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\transforms\\dexMerger\\360\\debug\\12
+base.1=E\:\\workspase\\mojingapp\\app\\build\\intermediates\\transforms\\dexMerger\\360\\debug\\2

@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
     <FrameLayout
@@ -9,46 +10,56 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1" />
-
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_F5F5F5"/>
     <RadioGroup
         android:id="@+id/rgGroup"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="50dp"
         android:gravity="center_vertical"
         android:orientation="horizontal">
 
-        <com.hlbkj.pdl.ui.customview.MyRadioButton
-            android:id="@+id/rbLoan"
+        <RadioButton
+            android:id="@+id/rbYuLe"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/transparent"
+            android:textSize="10sp"
             android:button="@null"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:drawableTop="@drawable/yule_sel"
+            android:text="娱乐"
+            android:textColor="@color/tab_check_color" />
+
+        <RadioButton
+            android:id="@+id/rbHome"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="4dp"
             android:checked="true"
+            android:background="@color/transparent"
+            android:drawableTop="@drawable/home_sel"
+            android:button="@null"
             android:gravity="center"
-            android:text="@string/tab_loan"
             android:textColor="@color/tab_check_color" />
 
-        <com.hlbkj.pdl.ui.customview.MyRadioButton
-            android:id="@+id/rbRepay"
+        <RadioButton
+            android:id="@+id/rbMessage"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/transparent"
+            android:textSize="10sp"
+            android:paddingTop="5dp"
             android:button="@null"
             android:gravity="center"
-            android:text="@string/tab_repay"
-            android:textColor="@color/tab_check_color" />
-
-        <com.hlbkj.pdl.ui.customview.MyRadioButton
-            android:id="@+id/rbMy"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:background="@color/transparent"
-            android:button="@null"
-            android:gravity="center"
-            android:text="@string/tab_my"
+            android:drawableTop="@drawable/message_sel"
+            android:text="消息"
             android:textColor="@color/tab_check_color" />
     </RadioGroup>
 </LinearLayout>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "E:\\workspase\\mojingapp\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\679c63d8a824b1408275a1e8f650ee04\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\3cc143feb5e644c9537b5afe5a183c31\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\47804\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\284d7f0d6e7dc90160d55d6e7aa892b9\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\EDZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4bcdf0cdfaabfbfd7e5e82aad6b3302b\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

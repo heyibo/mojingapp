@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android\\workspase\\xiangmumuvban\\archive\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "outputFile": "E:\\workspase\\mojingapp\\app\\build\\intermediates\\incremental\\merge360DebugResources\\merged.dir\\values-v19\\values-v19.xml",
             "map": [
                 {
-                    "source": "D:\\android\\workspase\\xiangmumuvban\\archive\\app\\src\\main\\res\\values-v19\\dimens.xml",
+                    "source": "E:\\workspase\\mojingapp\\app\\src\\main\\res\\values-v19\\dimens.xml",
                     "from": {
                         "startLines": "5",
                         "startColumns": "4",

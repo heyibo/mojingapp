@@ -8,6 +8,6 @@ package com.android.databinding.library;
 
 public final class R {
     public static final class id {
-        public static final int dataBinding = 0x7f080076;
+        public static final int dataBinding = 0x7f08007a;
     }
 }

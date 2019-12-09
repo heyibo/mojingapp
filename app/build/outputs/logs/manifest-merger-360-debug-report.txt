@@ -1,659 +1,675 @@
 -- Merging decision tree log ---
 permission#com.hlbkj.pdl.permission.JPUSH_MESSAGE
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:5:5-7:47
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:5:5-7:47
 	android:protectionLevel
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:7:9-44
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:7:9-44
 	android:name
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:6:9-65
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:6:9-65
 uses-permission#com.hlbkj.pdl.permission.JPUSH_MESSAGE
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:10:5-81
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:10:5-81
 	android:name
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:10:22-78
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:10:22-78
 provider#android.support.v4.content.FileProvider
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:51:9-59:20
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:51:9-59:20
 	android:grantUriPermissions
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:55:13-47
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:55:13-47
 	android:authorities
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:53:13-64
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:53:13-64
 	android:exported
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:54:13-37
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:54:13-37
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:52:13-67
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:52:13-67
 meta-data#C_CHANNEL
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:69:9-71:44
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:69:9-71:44
 	android:value
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:71:13-41
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:71:13-41
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:70:13-37
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:70:13-37
 meta-data#G_CHANNEL
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:73:9-75:44
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:73:9-75:44
 	android:value
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:75:13-41
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:75:13-41
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:74:13-37
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:74:13-37
 manifest
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\8516ec505a8fe0456b45c461cba84715\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\15eec5fb41e74952e2b04e6d1feeedf2\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\7046b12a4b7a5e6a536a504bdd05b3b2\AndroidManifest.xml:17:1-26:12
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.2.1.aar\9896040f5380b19bce218627c33a63e4\AndroidManifest.xml:13:1-19:12
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.1.aar\9ff5d3157a1b19ba4414d5386ae359c2\AndroidManifest.xml:13:1-19:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\679c63d8a824b1408275a1e8f650ee04\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:2:1-36:12
-MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\ucrop-v2.2.3.aar\2b054088ac21682aa5ed19293814d058\AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7a55f21b267451358f9e5befb066e023\AndroidManifest.xml:17:1-22:12
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:2:1-42:12
-MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\2b2e2a09ec351b38494e13d5aa4fb450\AndroidManifest.xml:2:1-13:12
-MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\4538d05228dfb1fcb148bc80a488954c\AndroidManifest.xml:2:1-17:12
-MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\4b01c31c0634af22b50118f826066dc6\AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\284d7f0d6e7dc90160d55d6e7aa892b9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\e27222023c6c689b88f9445eef27fce3\AndroidManifest.xml:2:1-11:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\5769d20faac688756ce0471fcca6608f\AndroidManifest.xml:15:1-20:12
-MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\7facad72ec04acc34016a02421930594\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f38e979683ac730e81cd952bcb96ebbf\AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:2:1-16:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d3f5425b8c4bf6c3ec49d24457ccd227\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8e1c0bd233f2c3d2ee934cae63c684b6\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\fce4073c970fa3d04713d3072ea85e37\AndroidManifest.xml:2:1-11:12
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\b1489bdb128eb54048477c7650fba5d5\AndroidManifest.xml:2:1-7:12
-MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\82217430ba0721fb5b5b31b0b6fb0b86\AndroidManifest.xml:2:1-9:12
-MERGED from [com.tencent.bugly:crashreport:3.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\crashreport-3.1.0.aar\5c3ba8abe2ce09b0019287fe6eab8b80\AndroidManifest.xml:2:1-9:12
-MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.7.1.aar\4f3afae7805f11b6b7887aa2ed0a289e\AndroidManifest.xml:2:1-9:12
-MERGED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:2:1-19:12
-MERGED from [com.github.Bakumon:StatusLayoutManager:1.0.4] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\StatusLayoutManager-1.0.4.aar\6906aab0a8c37ee0908db0f69f0aebbf\AndroidManifest.xml:2:1-11:12
-MERGED from [:refresh:refresh-header] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:refresh:refresh-layout] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-layout\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\5cade85f230e1d8ee96a3aaf9c7f6103\AndroidManifest.xml:2:1-11:12
-MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\81cc892bbf156b664dd0501ab74d5d21\AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.warkiz.widget:indicatorseekbar:2.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\indicatorseekbar-2.1.2.aar\3c669c75bc25ef6adcddd1a3f8cb8233\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.dzs-yaodi:Banner:1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Banner-1.2.aar\8d9c718dbd21e4904fa8fb4a7bd19993\AndroidManifest.xml:2:1-11:12
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:2:1-38:12
-MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:2:1-19:12
-MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Android-PickerView-4.1.8.aar\df326b8b8e05daa6be74cadb98de27dc\AndroidManifest.xml:2:1-11:12
-MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\b40d8c955b3cd8b03922dcbe208bd2f9\AndroidManifest.xml:2:1-13:12
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:2:1-57:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2354c9cfc0e7ed34885a2d1b51bc07b2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\604851bbab5c9bae022af45c50aabf92\AndroidManifest.xml:17:1-22:12
-MERGED from [com.contrarywind:wheelview:4.0.9] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\wheelview-4.0.9.aar\1c010b7ba9bbd30df1dbea9d5455d462\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f9ff60bdfbc0f37a454aa60db1f39caa\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5a357599ec359ce0bbf1ab1cfc77f36c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\545fb4eb5158e1c208b5e224dce4d789\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d89edb6bda6802b4eb6e6dc54f60f12f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3732b4930d4b8b8e7f6850cc9fa16a1d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c1eaf4d4756f65391a6bf00a2ecf446\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\b6f5c9c88fed95dea6fdd593ad520373\AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bcff9960fde3c40fea7ae91b186de113\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\345923f5cbaf10137241f62bc153cb5c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\26fb07434b4d85e57fc7536c5a29d9de\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e4e6a8afb408b3b79ec2765beeb14b94\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\46a5b8c0c0fd78eeae2ba554379669f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\7e1a8270c6d19239fad6395bc5aaea40\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\bcfddc17e968f1a91793cb148bf080d8\AndroidManifest.xml:17:1-26:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.2.1.aar\0b8d74ea7d2c563973836e79597f0603\AndroidManifest.xml:13:1-19:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.1.aar\f35bd491cdba156e8eb9af56b4f65fe2\AndroidManifest.xml:13:1-19:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3cc143feb5e644c9537b5afe5a183c31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:2:1-36:12
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\ucrop-v2.2.3.aar\9d0e88770686b518cbde0032a0314230\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0311b7d7cb32b28d10687da71b34e7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:2:1-42:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\13d0ebfbffef9f1506cc3d5c6bbbffae\AndroidManifest.xml:2:1-13:12
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\61f87a802423902a6a14cc94b5e4f717\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\1892078d3767fc7de8873eea2ecfe72f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4bcdf0cdfaabfbfd7e5e82aad6b3302b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\99a630db4c12ac850b6c445bcca0f1b8\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\3588cf627e2c310bb921fbd634067ef1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\553f95c8936938c2e814684be05f171e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5d89e51375a5f9d441ec8bbeeb2f32b7\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\30804009efc188f3ddae3db81e3b90a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53866f825d46d887b5ec79d285b7532a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\ff96f6b85b852f3ae6ca9930acfdea68\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3e50201ed45f24230d201f75aa7b5f93\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\a3da7b130e576eb7510e83312a23454b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:crashreport:3.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\crashreport-3.1.0.aar\f262ca7d7b86080288e8b80d6ac28e2b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.7.1.aar\1f0e3e3f998ed2b28ff19378912e3151\AndroidManifest.xml:2:1-9:12
+MERGED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.Bakumon:StatusLayoutManager:1.0.4] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\StatusLayoutManager-1.0.4.aar\113d0629b06fecfc1f96861fc8634c7a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4-7.aar\ec7210e08cdf445028ad0bea49f53a0d\AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.4-7.aar\88da65397145effdd7bc276981c8b43d\AndroidManifest.xml:2:1-17:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\85835eca6fd0e5bbfb445ff76cddf4c0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\aee18da25c879943447bc1f1e8940abd\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.warkiz.widget:indicatorseekbar:2.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\indicatorseekbar-2.1.2.aar\2392133d9c43c8aefd113757e9831c7b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dzs-yaodi:Banner:1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Banner-1.2.aar\3be29383d7a15c616ede211434d655c0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:2:1-38:12
+MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:2:1-19:12
+MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Android-PickerView-4.1.8.aar\936d0c752d47c01341a1453b9dbfe31a\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\15b9041fdb95cb2e2e1eb7a9419ed19b\AndroidManifest.xml:2:1-13:12
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c762dbbc9be56628f86e7b958a5fce17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7131c410674b5468db135c2a89224181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.contrarywind:wheelview:4.0.9] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\wheelview-4.0.9.aar\f1a9dbfa8e0454894632d000904c13f1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f3b07b90e7c5bfe1d95e28ee5fde9c27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6f71146fa30bc22c90069ff6fd49047a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f4d251a0432e6dc4a36c6acc577803d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\be4298def974a2f21e9643b86ee185d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\945876e8728a1508cabc4373ef844581\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0aff3a9ef12643746377e04e9dfe1e7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\84961ce60c01b9806d1a927120ab05a4\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d89aaa60ec6e7bf85dfcbb69d34fdc64\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\abdf20ef3b1dd8138d29f2f8aa6b174c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a5de23678d42c2b896f22997fd1c8fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae28d8a0cdec08ea3b4da8d6438767fa\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
 	package
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:1-99:12
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:1-106:12
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:12:5-67
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:11:5-67
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:11:5-67
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:12:5-67
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:12:5-67
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:18:5-67
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:18:5-67
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:11:5-67
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:11:5-67
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:12:5-67
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:12:5-67
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:18:5-67
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:18:5-67
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:12:22-64
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:13:5-68
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:18:5-68
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:18:5-68
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:13:5-68
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:18:5-68
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:18:5-68
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:13:22-65
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:13:22-65
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:14:5-75
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:22:5-75
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:22:5-75
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:15:5-75
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:15:5-75
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:14:5-75
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:22:5-75
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:22:5-75
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:15:5-75
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:15:5-75
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:14:22-72
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:14:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:15:5-81
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:28:5-81
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:28:5-81
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:16:5-81
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:16:5-81
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:15:5-81
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:28:5-81
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:28:5-81
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:16:5-81
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:16:5-80
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:26:5-80
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:26:5-80
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:16:5-80
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:26:5-80
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:26:5-80
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:16:22-77
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:16:22-77
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:17:5-73
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:17:5-73
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:17:5-73
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:17:5-73
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:17:5-73
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:17:5-73
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:17:22-70
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:17:22-70
 uses-permission#android.permission.VIBRATE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:18:5-66
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:21:5-66
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:21:5-66
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:18:5-66
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:21:5-66
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:18:22-63
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:18:22-63
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:19:5-84
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:24:5-84
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:24:5-84
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:19:5-84
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:24:5-84
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:24:5-84
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:19:22-81
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:19:22-81
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:20:5-79
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:12:5-79
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:12:5-79
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:13:5-79
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:13:5-79
-MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\b40d8c955b3cd8b03922dcbe208bd2f9\AndroidManifest.xml:11:5-79
-MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\b40d8c955b3cd8b03922dcbe208bd2f9\AndroidManifest.xml:11:5-79
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:19:5-79
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:19:5-79
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:12:5-79
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:12:5-79
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:13:5-79
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:13:5-79
+MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\15b9041fdb95cb2e2e1eb7a9419ed19b\AndroidManifest.xml:11:5-79
+MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\15b9041fdb95cb2e2e1eb7a9419ed19b\AndroidManifest.xml:11:5-79
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:19:5-79
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:20:22-76
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:20:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:21:5-76
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:13:5-76
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:13:5-76
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:14:5-76
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:14:5-76
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:20:5-76
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:20:5-76
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:21:5-76
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:13:5-76
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:13:5-76
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:14:5-76
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:14:5-76
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:20:5-76
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:21:22-73
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:21:22-73
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:22:5-78
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:22:5-78
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:22:22-75
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:22:22-75
 uses-permission#android.permission.CHANGE_CONFIGURATION
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:23:5-79
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:23:22-76
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:23:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:26:5-81
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:21:5-81
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:21:5-81
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:19:5-81
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:19:5-81
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:26:5-81
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:21:5-81
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:21:5-81
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:19:5-81
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:26:22-78
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:26:22-78
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:27:5-76
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:15:5-76
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:15:5-76
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:27:5-76
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:15:5-76
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:15:5-76
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:27:22-73
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:27:22-73
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:28:5-79
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:20:5-79
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:20:5-79
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:20:5-79
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:20:5-79
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:28:5-79
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:20:5-79
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:20:5-79
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:20:5-79
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:28:22-76
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:28:22-76
 uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:29:5-89
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:29:5-89
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:29:22-86
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:29:22-86
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:30:5-79
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:30:5-79
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:30:22-76
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:30:22-76
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:31:5-77
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:31:5-77
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:31:22-74
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:31:22-74
 uses-permission#android.permission.CAMERA
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:32:5-65
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:32:5-65
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:32:22-62
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:32:22-62
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:33:5-72
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:34:5-72
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:34:5-72
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:33:5-72
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:34:5-72
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:34:5-72
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:33:22-69
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:33:22-69
 uses-permission#android.permission.READ_CALL_LOG
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:35:5-72
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:35:5-72
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:35:22-69
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:35:22-69
 uses-permission#android.permission.BIND_JOB_SERVICE
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:36:5-75
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:36:5-75
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:36:22-72
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:36:22-72
 uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:38:5-85
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:38:5-85
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:38:22-82
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:38:22-82
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:40:5-68
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:40:5-68
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:40:22-65
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:40:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:41:5-74
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:41:5-74
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:41:22-71
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:41:22-71
 application
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:43:5-97:19
-MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:11:5-34:19
-MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:11:5-34:19
-MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\2b2e2a09ec351b38494e13d5aa4fb450\AndroidManifest.xml:11:5-20
-MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\2b2e2a09ec351b38494e13d5aa4fb450\AndroidManifest.xml:11:5-20
-MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\4538d05228dfb1fcb148bc80a488954c\AndroidManifest.xml:11:5-15:19
-MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\4538d05228dfb1fcb148bc80a488954c\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\4b01c31c0634af22b50118f826066dc6\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\4b01c31c0634af22b50118f826066dc6\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\e27222023c6c689b88f9445eef27fce3\AndroidManifest.xml:9:5-20
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\e27222023c6c689b88f9445eef27fce3\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f38e979683ac730e81cd952bcb96ebbf\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f38e979683ac730e81cd952bcb96ebbf\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:10:5-14:19
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:10:5-14:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8e1c0bd233f2c3d2ee934cae63c684b6\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8e1c0bd233f2c3d2ee934cae63c684b6\AndroidManifest.xml:9:5-20
-MERGED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:11:5-17:19
-MERGED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:11:5-17:19
-MERGED from [:refresh:refresh-header] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [:refresh:refresh-header] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [:refresh:refresh-layout] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-layout\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [:refresh:refresh-layout] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-layout\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\5cade85f230e1d8ee96a3aaf9c7f6103\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\5cade85f230e1d8ee96a3aaf9c7f6103\AndroidManifest.xml:9:5-20
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:23:5-36:19
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:23:5-36:19
-MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:11:5-17:19
-MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:11:5-17:19
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:22:5-55:19
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:22:5-55:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\b6f5c9c88fed95dea6fdd593ad520373\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\b6f5c9c88fed95dea6fdd593ad520373\AndroidManifest.xml:9:5-20
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:43:5-104:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:11:5-34:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:11:5-34:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\13d0ebfbffef9f1506cc3d5c6bbbffae\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\13d0ebfbffef9f1506cc3d5c6bbbffae\AndroidManifest.xml:11:5-20
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\61f87a802423902a6a14cc94b5e4f717\AndroidManifest.xml:11:5-15:19
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\61f87a802423902a6a14cc94b5e4f717\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\1892078d3767fc7de8873eea2ecfe72f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\1892078d3767fc7de8873eea2ecfe72f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\99a630db4c12ac850b6c445bcca0f1b8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\99a630db4c12ac850b6c445bcca0f1b8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5d89e51375a5f9d441ec8bbeeb2f32b7\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5d89e51375a5f9d441ec8bbeeb2f32b7\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:10:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53866f825d46d887b5ec79d285b7532a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53866f825d46d887b5ec79d285b7532a\AndroidManifest.xml:9:5-20
+MERGED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:11:5-17:19
+MERGED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:11:5-17:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4-7.aar\ec7210e08cdf445028ad0bea49f53a0d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4-7.aar\ec7210e08cdf445028ad0bea49f53a0d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.4-7.aar\88da65397145effdd7bc276981c8b43d\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.4-7.aar\88da65397145effdd7bc276981c8b43d\AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\85835eca6fd0e5bbfb445ff76cddf4c0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\85835eca6fd0e5bbfb445ff76cddf4c0\AndroidManifest.xml:9:5-20
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:23:5-36:19
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:23:5-36:19
+MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:11:5-17:19
+MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:11:5-17:19
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:22:5-55:19
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:22:5-55:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\84961ce60c01b9806d1a927120ab05a4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\84961ce60c01b9806d1a927120ab05a4\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:49:9-35
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:49:9-35
 	android:label
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:47:9-41
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:47:9-41
 	android:roundIcon
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:48:9-54
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:48:9-54
 	android:icon
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:46:9-43
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:46:9-43
 	android:allowBackup
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:45:9-35
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:45:9-35
 	android:theme
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:50:9-40
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:50:9-40
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:44:9-38
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:44:9-38
 meta-data#design_width_in_dp
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:61:9-63:35
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:61:9-63:35
 	android:value
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:63:13-32
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:63:13-32
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:62:13-46
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:62:13-46
 meta-data#design_height_in_dp
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:64:9-66:35
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:64:9-66:35
 	android:value
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:66:13-32
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:66:13-32
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:65:13-47
-activity#com.hlbkj.pdl.ui.activity.SplashActivity
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:77:9-81:20
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:65:13-47
+activity#com.hlbkj.mj.ui.activity.SplashActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:77:9-79:50
 	android:theme
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:79:13-47
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:79:13-47
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:78:13-55
-activity#com.hlbkj.pdl.ui.activity.MainActivity
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:82:9-85:52
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:78:13-55
+activity#com.hlbkj.mj.ui.activity.MainActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:80:9-83:52
 	android:screenOrientation
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:85:13-49
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:83:13-49
 	android:launchMode
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:84:13-44
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:82:13-44
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:83:13-53
-activity#com.hlbkj.pdl.ui.activity.LoginActivity
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:86:9-88:52
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:81:13-53
+activity#com.hlbkj.mj.ui.activity.LoginActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:84:9-86:52
 	android:screenOrientation
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:88:13-49
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:86:13-49
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:87:13-54
-activity#com.hlbkj.pdl.ui.activity.GuideActivity
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:89:9-96:20
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:85:13-54
+activity#com.hlbkj.mj.ui.activity.GuideActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:87:9-96:20
 	android:screenOrientation
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:90:13-49
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:89:13-49
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:89:19-60
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:88:13-54
 intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:91:13-95:29
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:90:13-95:29
 action#android.intent.action.MAIN
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:92:17-69
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:91:17-69
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:92:25-66
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:91:25-66
 action#android.intent.action.VIEW
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:93:17-69
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:92:17-69
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:93:25-66
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:92:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:94:17-77
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:94:17-77
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:94:27-74
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:94:27-74
+activity#com.hlbkj.mj.ui.activity.NieLianActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:98:13-56
+activity#com.hlbkj.mj.ui.activity.JuBaoActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:100:9-102:52
+	android:screenOrientation
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:101:13-54
+activity#com.hlbkj.mj.ui.activity.ShopActivity
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:103:9-71
+	android:name
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:103:19-59
 uses-sdk
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\8516ec505a8fe0456b45c461cba84715\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\8516ec505a8fe0456b45c461cba84715\AndroidManifest.xml:20:5-43
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\15eec5fb41e74952e2b04e6d1feeedf2\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\15eec5fb41e74952e2b04e6d1feeedf2\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\7046b12a4b7a5e6a536a504bdd05b3b2\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\7046b12a4b7a5e6a536a504bdd05b3b2\AndroidManifest.xml:22:5-24:41
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.2.1.aar\9896040f5380b19bce218627c33a63e4\AndroidManifest.xml:17:5-44
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.2.1.aar\9896040f5380b19bce218627c33a63e4\AndroidManifest.xml:17:5-44
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.1.aar\9ff5d3157a1b19ba4414d5386ae359c2\AndroidManifest.xml:17:5-44
-MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.1.aar\9ff5d3157a1b19ba4414d5386ae359c2\AndroidManifest.xml:17:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\679c63d8a824b1408275a1e8f650ee04\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\679c63d8a824b1408275a1e8f650ee04\AndroidManifest.xml:20:5-44
-MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\ucrop-v2.2.3.aar\2b054088ac21682aa5ed19293814d058\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\ucrop-v2.2.3.aar\2b054088ac21682aa5ed19293814d058\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7a55f21b267451358f9e5befb066e023\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7a55f21b267451358f9e5befb066e023\AndroidManifest.xml:20:5-44
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:7:5-9:41
-MERGED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:7:5-9:41
-MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\2b2e2a09ec351b38494e13d5aa4fb450\AndroidManifest.xml:7:5-9:41
-MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\2b2e2a09ec351b38494e13d5aa4fb450\AndroidManifest.xml:7:5-9:41
-MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\4538d05228dfb1fcb148bc80a488954c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\4538d05228dfb1fcb148bc80a488954c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\4b01c31c0634af22b50118f826066dc6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\4b01c31c0634af22b50118f826066dc6\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\284d7f0d6e7dc90160d55d6e7aa892b9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\284d7f0d6e7dc90160d55d6e7aa892b9\AndroidManifest.xml:20:5-44
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\e27222023c6c689b88f9445eef27fce3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\e27222023c6c689b88f9445eef27fce3\AndroidManifest.xml:5:5-7:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\5769d20faac688756ce0471fcca6608f\AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\5769d20faac688756ce0471fcca6608f\AndroidManifest.xml:18:5-43
-MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\7facad72ec04acc34016a02421930594\AndroidManifest.xml:7:5-9:41
-MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\7facad72ec04acc34016a02421930594\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f38e979683ac730e81cd952bcb96ebbf\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f38e979683ac730e81cd952bcb96ebbf\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d3f5425b8c4bf6c3ec49d24457ccd227\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d3f5425b8c4bf6c3ec49d24457ccd227\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8e1c0bd233f2c3d2ee934cae63c684b6\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8e1c0bd233f2c3d2ee934cae63c684b6\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\fce4073c970fa3d04713d3072ea85e37\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\fce4073c970fa3d04713d3072ea85e37\AndroidManifest.xml:7:5-9:41
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\b1489bdb128eb54048477c7650fba5d5\AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\b1489bdb128eb54048477c7650fba5d5\AndroidManifest.xml:5:5-43
-MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\82217430ba0721fb5b5b31b0b6fb0b86\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\82217430ba0721fb5b5b31b0b6fb0b86\AndroidManifest.xml:5:5-7:41
-MERGED from [com.tencent.bugly:crashreport:3.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\crashreport-3.1.0.aar\5c3ba8abe2ce09b0019287fe6eab8b80\AndroidManifest.xml:5:5-7:41
-MERGED from [com.tencent.bugly:crashreport:3.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\crashreport-3.1.0.aar\5c3ba8abe2ce09b0019287fe6eab8b80\AndroidManifest.xml:5:5-7:41
-MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.7.1.aar\4f3afae7805f11b6b7887aa2ed0a289e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.7.1.aar\4f3afae7805f11b6b7887aa2ed0a289e\AndroidManifest.xml:5:5-7:41
-MERGED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:7:5-9:41
-MERGED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Bakumon:StatusLayoutManager:1.0.4] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\StatusLayoutManager-1.0.4.aar\6906aab0a8c37ee0908db0f69f0aebbf\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Bakumon:StatusLayoutManager:1.0.4] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\StatusLayoutManager-1.0.4.aar\6906aab0a8c37ee0908db0f69f0aebbf\AndroidManifest.xml:7:5-9:41
-MERGED from [:refresh:refresh-header] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:refresh:refresh-header] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-header\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:refresh:refresh-layout] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-layout\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:refresh:refresh-layout] D:\android\workspase\xiangmumuvban\archive\refresh\refresh-layout\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\5cade85f230e1d8ee96a3aaf9c7f6103\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\5cade85f230e1d8ee96a3aaf9c7f6103\AndroidManifest.xml:5:5-7:41
-MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\81cc892bbf156b664dd0501ab74d5d21\AndroidManifest.xml:8:5-10:41
-MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\81cc892bbf156b664dd0501ab74d5d21\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.warkiz.widget:indicatorseekbar:2.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\indicatorseekbar-2.1.2.aar\3c669c75bc25ef6adcddd1a3f8cb8233\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.warkiz.widget:indicatorseekbar:2.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\indicatorseekbar-2.1.2.aar\3c669c75bc25ef6adcddd1a3f8cb8233\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.dzs-yaodi:Banner:1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Banner-1.2.aar\8d9c718dbd21e4904fa8fb4a7bd19993\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.dzs-yaodi:Banner:1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Banner-1.2.aar\8d9c718dbd21e4904fa8fb4a7bd19993\AndroidManifest.xml:7:5-9:41
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:7:5-9:41
-MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Android-PickerView-4.1.8.aar\df326b8b8e05daa6be74cadb98de27dc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\Android-PickerView-4.1.8.aar\df326b8b8e05daa6be74cadb98de27dc\AndroidManifest.xml:7:5-9:41
-MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\b40d8c955b3cd8b03922dcbe208bd2f9\AndroidManifest.xml:7:5-9:41
-MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\b40d8c955b3cd8b03922dcbe208bd2f9\AndroidManifest.xml:7:5-9:41
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:7:5-9:41
-MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:transition:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2354c9cfc0e7ed34885a2d1b51bc07b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2354c9cfc0e7ed34885a2d1b51bc07b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\604851bbab5c9bae022af45c50aabf92\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\604851bbab5c9bae022af45c50aabf92\AndroidManifest.xml:20:5-44
-MERGED from [com.contrarywind:wheelview:4.0.9] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\wheelview-4.0.9.aar\1c010b7ba9bbd30df1dbea9d5455d462\AndroidManifest.xml:7:5-9:41
-MERGED from [com.contrarywind:wheelview:4.0.9] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\wheelview-4.0.9.aar\1c010b7ba9bbd30df1dbea9d5455d462\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f9ff60bdfbc0f37a454aa60db1f39caa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f9ff60bdfbc0f37a454aa60db1f39caa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5a357599ec359ce0bbf1ab1cfc77f36c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5a357599ec359ce0bbf1ab1cfc77f36c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\545fb4eb5158e1c208b5e224dce4d789\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\545fb4eb5158e1c208b5e224dce4d789\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d89edb6bda6802b4eb6e6dc54f60f12f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d89edb6bda6802b4eb6e6dc54f60f12f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3732b4930d4b8b8e7f6850cc9fa16a1d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3732b4930d4b8b8e7f6850cc9fa16a1d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c1eaf4d4756f65391a6bf00a2ecf446\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c1eaf4d4756f65391a6bf00a2ecf446\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\b6f5c9c88fed95dea6fdd593ad520373\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\b6f5c9c88fed95dea6fdd593ad520373\AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bcff9960fde3c40fea7ae91b186de113\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bcff9960fde3c40fea7ae91b186de113\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\345923f5cbaf10137241f62bc153cb5c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\345923f5cbaf10137241f62bc153cb5c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\26fb07434b4d85e57fc7536c5a29d9de\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\26fb07434b4d85e57fc7536c5a29d9de\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e4e6a8afb408b3b79ec2765beeb14b94\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e4e6a8afb408b3b79ec2765beeb14b94\AndroidManifest.xml:20:5-44
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\46a5b8c0c0fd78eeae2ba554379669f7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\46a5b8c0c0fd78eeae2ba554379669f7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\7e1a8270c6d19239fad6395bc5aaea40\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\7e1a8270c6d19239fad6395bc5aaea40\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\bcfddc17e968f1a91793cb148bf080d8\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\bcfddc17e968f1a91793cb148bf080d8\AndroidManifest.xml:22:5-24:41
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.2.1.aar\0b8d74ea7d2c563973836e79597f0603\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-2.2.1.aar\0b8d74ea7d2c563973836e79597f0603\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.1.aar\f35bd491cdba156e8eb9af56b4f65fe2\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxlifecycle-android-2.2.1.aar\f35bd491cdba156e8eb9af56b4f65fe2\AndroidManifest.xml:17:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3cc143feb5e644c9537b5afe5a183c31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3cc143feb5e644c9537b5afe5a183c31\AndroidManifest.xml:20:5-44
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\ucrop-v2.2.3.aar\9d0e88770686b518cbde0032a0314230\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\ucrop-v2.2.3.aar\9d0e88770686b518cbde0032a0314230\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0311b7d7cb32b28d10687da71b34e7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0311b7d7cb32b28d10687da71b34e7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\13d0ebfbffef9f1506cc3d5c6bbbffae\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\13d0ebfbffef9f1506cc3d5c6bbbffae\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\61f87a802423902a6a14cc94b5e4f717\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xingliuhua:xlhratingbar_lib:1.0.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\xlhratingbar_lib-1.0.1.aar\61f87a802423902a6a14cc94b5e4f717\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\1892078d3767fc7de8873eea2ecfe72f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.q296494327:GuidePage:1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\GuidePage-1.0.aar\1892078d3767fc7de8873eea2ecfe72f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4bcdf0cdfaabfbfd7e5e82aad6b3302b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4bcdf0cdfaabfbfd7e5e82aad6b3302b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\99a630db4c12ac850b6c445bcca0f1b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.10.2.aar\99a630db4c12ac850b6c445bcca0f1b8\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\3588cf627e2c310bb921fbd634067ef1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\3588cf627e2c310bb921fbd634067ef1\AndroidManifest.xml:18:5-43
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\553f95c8936938c2e814684be05f171e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttputils-2.6.2.aar\553f95c8936938c2e814684be05f171e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5d89e51375a5f9d441ec8bbeeb2f32b7\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5d89e51375a5f9d441ec8bbeeb2f32b7\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\30804009efc188f3ddae3db81e3b90a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\30804009efc188f3ddae3db81e3b90a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53866f825d46d887b5ec79d285b7532a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53866f825d46d887b5ec79d285b7532a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\ff96f6b85b852f3ae6ca9930acfdea68\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.46.aar\ff96f6b85b852f3ae6ca9930acfdea68\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3e50201ed45f24230d201f75aa7b5f93\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3e50201ed45f24230d201f75aa7b5f93\AndroidManifest.xml:5:5-43
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\a3da7b130e576eb7510e83312a23454b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\a3da7b130e576eb7510e83312a23454b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:3.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\crashreport-3.1.0.aar\f262ca7d7b86080288e8b80d6ac28e2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:3.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\crashreport-3.1.0.aar\f262ca7d7b86080288e8b80d6ac28e2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.7.1.aar\1f0e3e3f998ed2b28ff19378912e3151\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\nativecrashreport-3.7.1.aar\1f0e3e3f998ed2b28ff19378912e3151\AndroidManifest.xml:5:5-7:41
+MERGED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:7:5-9:41
+MERGED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Bakumon:StatusLayoutManager:1.0.4] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\StatusLayoutManager-1.0.4.aar\113d0629b06fecfc1f96861fc8634c7a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Bakumon:StatusLayoutManager:1.0.4] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\StatusLayoutManager-1.0.4.aar\113d0629b06fecfc1f96861fc8634c7a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4-7.aar\ec7210e08cdf445028ad0bea49f53a0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshLayout-1.0.4-7.aar\ec7210e08cdf445028ad0bea49f53a0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.4-7.aar\88da65397145effdd7bc276981c8b43d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.4-7] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\SmartRefreshHeader-1.0.4-7.aar\88da65397145effdd7bc276981c8b43d\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\85835eca6fd0e5bbfb445ff76cddf4c0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\85835eca6fd0e5bbfb445ff76cddf4c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\aee18da25c879943447bc1f1e8940abd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\FlycoTabLayout_Lib-2.1.2.aar\aee18da25c879943447bc1f1e8940abd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.warkiz.widget:indicatorseekbar:2.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\indicatorseekbar-2.1.2.aar\2392133d9c43c8aefd113757e9831c7b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.warkiz.widget:indicatorseekbar:2.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\indicatorseekbar-2.1.2.aar\2392133d9c43c8aefd113757e9831c7b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dzs-yaodi:Banner:1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Banner-1.2.aar\3be29383d7a15c616ede211434d655c0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dzs-yaodi:Banner:1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Banner-1.2.aar\3be29383d7a15c616ede211434d655c0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Android-PickerView-4.1.8.aar\936d0c752d47c01341a1453b9dbfe31a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:4.1.8] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\Android-PickerView-4.1.8.aar\936d0c752d47c01341a1453b9dbfe31a\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\15b9041fdb95cb2e2e1eb7a9419ed19b\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jzvd:jiaozivideoplayer:6.2.12] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\jiaozivideoplayer-6.2.12.aar\15b9041fdb95cb2e2e1eb7a9419ed19b\AndroidManifest.xml:7:5-9:41
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:7:5-9:41
+MERGED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c762dbbc9be56628f86e7b958a5fce17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c762dbbc9be56628f86e7b958a5fce17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7131c410674b5468db135c2a89224181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7131c410674b5468db135c2a89224181\AndroidManifest.xml:20:5-44
+MERGED from [com.contrarywind:wheelview:4.0.9] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\wheelview-4.0.9.aar\f1a9dbfa8e0454894632d000904c13f1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:wheelview:4.0.9] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\wheelview-4.0.9.aar\f1a9dbfa8e0454894632d000904c13f1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f3b07b90e7c5bfe1d95e28ee5fde9c27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f3b07b90e7c5bfe1d95e28ee5fde9c27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6f71146fa30bc22c90069ff6fd49047a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6f71146fa30bc22c90069ff6fd49047a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f4d251a0432e6dc4a36c6acc577803d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f4d251a0432e6dc4a36c6acc577803d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\be4298def974a2f21e9643b86ee185d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\be4298def974a2f21e9643b86ee185d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\945876e8728a1508cabc4373ef844581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\945876e8728a1508cabc4373ef844581\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0aff3a9ef12643746377e04e9dfe1e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0aff3a9ef12643746377e04e9dfe1e7b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\84961ce60c01b9806d1a927120ab05a4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\84961ce60c01b9806d1a927120ab05a4\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d89aaa60ec6e7bf85dfcbb69d34fdc64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d89aaa60ec6e7bf85dfcbb69d34fdc64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\abdf20ef3b1dd8138d29f2f8aa6b174c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\abdf20ef3b1dd8138d29f2f8aa6b174c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a5de23678d42c2b896f22997fd1c8fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a5de23678d42c2b896f22997fd1c8fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae28d8a0cdec08ea3b4da8d6438767fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae28d8a0cdec08ea3b4da8d6438767fa\AndroidManifest.xml:20:5-44
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:56:13-58:54
+ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:56:13-58:54
 	android:resource
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:58:17-51
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:58:17-51
 	android:name
-		ADDED from D:\android\workspase\xiangmumuvban\archive\app\src\main\AndroidManifest.xml:57:17-67
+		ADDED from E:\workspase\mojingapp\app\src\main\AndroidManifest.xml:57:17-67
 provider#com.luck.picture.lib.PictureFileProvider
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:12:9-20:20
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:16:13-47
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:14:13-60
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:14:13-60
 	android:exported
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:15:13-37
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:13:13-68
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:13:13-68
 activity#com.luck.picture.lib.PictureSelectorActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:22:9-24:55
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:22:9-24:55
 	android:windowSoftInputMode
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:24:13-52
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:24:13-52
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:23:13-72
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:23:13-72
 activity#com.luck.picture.lib.PicturePreviewActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:25:9-80
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:25:9-80
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:25:19-77
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:25:19-77
 activity#com.luck.picture.lib.PictureVideoPlayActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:26:9-29:50
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:26:9-29:50
 	android:screenOrientation
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:29:13-47
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:29:13-47
 	android:configChanges
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:28:13-74
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:28:13-74
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:27:13-73
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:27:13-73
 activity#com.luck.picture.lib.PictureExternalPreviewActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:30:9-88
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:30:9-88
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:30:19-85
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:30:19-85
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:31:9-69
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:31:9-69
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:31:19-66
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:31:19-66
 activity#com.yalantis.ucrop.PictureMultiCuttingActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:32:9-83
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:32:9-83
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:32:19-80
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:32:19-80
 activity#com.luck.picture.lib.PicturePlayAudioActivity
-ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:33:9-82
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:33:9-82
 	android:name
-		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\864ec44f4ab4c83f46dcbe7a61397671\AndroidManifest.xml:33:19-79
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.2.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\picture_library-v2.2.3.aar\0ad3e9957f23b04060531f5b9371ea98\AndroidManifest.xml:33:19-79
 uses-permission#android.permission.READ_SMS
-ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:30:5-67
+ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:30:5-67
 	android:name
-		ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:30:22-64
+		ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:30:22-64
 uses-permission#android.permission.SEND_SMS
-ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:32:5-67
+ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:32:5-67
 	android:name
-		ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:32:22-64
+		ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:32:22-64
 uses-permission#android.permission.CALL_PHONE
-ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:36:5-69
+ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:36:5-69
 	android:name
-		ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:36:22-66
+		ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:36:22-66
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:38:5-83
+ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:38:5-83
 	android:name
-		ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:38:22-80
+		ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:38:22-80
 uses-permission#android.permission.NFC
-ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:40:5-62
+ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:40:5-62
 	android:name
-		ADDED from [com.liyi:sutils:2.0.3] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\4ef370a2d53fa7af9fc0bcc3ccf6ab55\AndroidManifest.xml:40:22-59
+		ADDED from [com.liyi:sutils:2.0.3] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\sutils-2.0.3.aar\cf296f498842471faee6cb3c170e340b\AndroidManifest.xml:40:22-59
 meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
-ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:11:9-13:43
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:11:9-13:43
 	android:value
-		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:13:13-40
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:13:13-40
 	android:name
-		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\7566dee186ab37723ec164569dfe91c1\AndroidManifest.xml:12:13-84
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.8.0] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\okhttp3-integration-4.8.0.aar\b44168ba28084e1f4fe6d9e742e76c4a\AndroidManifest.xml:12:13-84
 provider#me.jessyan.autosize.InitProvider
-ADDED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:12:9-16:43
+ADDED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:12:9-16:43
 	android:authorities
-		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:14:13-74
+		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:14:13-74
 	android:multiprocess
-		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:16:13-40
+		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:16:13-40
 	android:exported
-		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:15:13-37
+		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\482c6ba0495b4f57db1a09b391f845f3\AndroidManifest.xml:13:13-60
+		ADDED from [me.jessyan:autosize:1.1.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\autosize-1.1.2.aar\d0958628231e527e5658dfcdedd3c9cc\AndroidManifest.xml:13:13-60
 meta-data#TA_APPKEY
-ADDED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:24:9-26:45
+ADDED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:24:9-26:45
 	android:value
-		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:26:13-42
+		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:26:13-42
 	android:name
-		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:25:13-37
+		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:25:13-37
 meta-data#InstallChannel
-ADDED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:28:9-30:46
+ADDED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:28:9-30:46
 	android:value
-		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:30:13-43
+		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:30:13-43
 	android:name
-		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\56e4e281b3c9b037c0b24fb683eeb50a\AndroidManifest.xml:29:13-42
+		ADDED from [com.qq.mta:mta:3.4.2] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mta-3.4.2.aar\2242ebc294906eadc62f5e93078ae839\AndroidManifest.xml:29:13-42
 provider#com.tencent.mid.api.MidProvider
-ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:12:9-16:20
+ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:12:9-16:20
 	android:authorities
-		ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:14:13-66
+		ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:14:13-66
 	android:exported
-		ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:15:13-36
+		ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\c7f7babe82872337ae0c65aea9daa565\AndroidManifest.xml:13:13-59
+		ADDED from [com.tencent.mid:mid:3.73-release] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\mid-3.73-release.aar\632e589ffcfa814e81ed621865587270\AndroidManifest.xml:13:13-59
 supports-screens
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:11:5-16:39
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:11:5-16:39
 	android:largeScreens
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:13:9-36
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:13:9-36
 	android:smallScreens
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:16:9-36
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:16:9-36
 	android:normalScreens
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:14:9-37
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:14:9-37
 	android:resizeable
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:15:9-34
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:15:9-34
 	android:anyDensity
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:12:9-34
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:12:9-34
 uses-library#org.apache.http.legacy
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:23:9-25:40
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:25:13-37
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:24:13-50
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:24:13-50
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:27:9-32:20
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:27:9-32:20
 	android:screenOrientation
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:31:13-47
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:31:13-47
 	android:exported
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:30:13-37
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:30:13-37
 	android:configChanges
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:29:13-74
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:29:13-74
 	android:name
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:28:13-60
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:28:13-60
 activity#com.alipay.sdk.app.H5AuthActivity
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:33:9-38:20
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:33:9-38:20
 	android:screenOrientation
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:37:13-47
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:37:13-47
 	android:exported
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:36:13-37
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:36:13-37
 	android:configChanges
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:35:13-74
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:35:13-74
 	android:name
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:34:13-61
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:34:13-61
 activity#com.alipay.sdk.app.PayResultActivity
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:39:9-48:20
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:39:9-48:20
 	android:launchMode
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:43:13-48
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:43:13-48
 	android:exported
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:42:13-36
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:42:13-36
 	android:configChanges
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:41:13-74
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:41:13-74
 	android:theme
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:44:13-72
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:44:13-72
 	android:name
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:40:13-64
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:40:13-64
 intent-filter#android.intent.category.DEFAULT
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:45:13-47:29
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:45:13-47:29
 category#android.intent.category.DEFAULT
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:46:17-76
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:46:17-76
 	android:name
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:46:27-73
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:46:27-73
 activity#com.alipay.sdk.app.AlipayResultActivity
-ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:49:9-54:20
+ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:49:9-54:20
 	android:launchMode
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:52:13-44
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:52:13-44
 	android:exported
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:51:13-36
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:51:13-36
 	android:theme
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:53:13-72
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:53:13-72
 	android:name
-		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\47804\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\964a66b8c9b35ca2eec41f5c645a1f68\AndroidManifest.xml:50:13-67
+		ADDED from [:alipaySdk-15.6.5-20190718211148:] C:\Users\EDZ\.gradle\caches\transforms-1\files-1.1\alipaySdk-15.6.5-20190718211148.aar\f8569f8d0113344d4e99e060a520a32d\AndroidManifest.xml:50:13-67

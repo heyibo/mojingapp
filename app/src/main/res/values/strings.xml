@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LBYJ</string>
+    <string name="app_name">魔境</string>
     <string name="jump_txt">Jump  %ds</string>
-    <string name="tab_loan">Loan</string>
-    <string name="tab_repay">Repay</string>
-    <string name="tab_my">My</string>
+    <string name="tab_loan">首页</string>
+    <string name="tab_repay">好友</string>
+    <string name="tab_my">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
